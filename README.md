@@ -1,2 +1,2 @@
 # privacy-policy-html
-na
+privacy policy html
